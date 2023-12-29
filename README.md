@@ -7,7 +7,7 @@
 
 | 作者 | 网址 | 进度 |
 | --- | --- | --- |
-| 这里写作者名称 | 这里写作业网址 | 这里写进度 |
+| kokakola | https://javascript-sudoku.vercel.app/ | 第一版 |
 
 
 ## 训练营介绍
