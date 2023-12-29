@@ -13,6 +13,7 @@
 | yooumuu | https://next-sudoku-game.vercel.app/ | 第一版 |
 | cc   | https://sudoku-puzzle-master-zzia.vercel.app | 第一版 |
 | 小鑫 | https://sudoku-game-xi.vercel.app/ | 完成第一版 |
+| 击石 | https://soduku-two.vercel.app | 第一版 |
 
 
 ## 训练营介绍
