@@ -21,6 +21,7 @@
 | Fanlu | https://the-next-sudoku.vercel.app/ | 第一版 |
 | 子煦 | https://sudoku-allen.vercel.app/ | 第一版 |
 | Q_Q | https://sudoku-master.vercel.app/ | 第一版 |
+| 云畔雾隐花 | [https://sudoku-master.vercel.app/](https://sudoku-pi-eight.vercel.app/) | 第一版 |
 
 ## 训练营介绍
 
