@@ -4,11 +4,16 @@
 
 ## 作业列表
 
+
 大家交作业可以通过发 PR 的形式提交自己的作业地址在下方表格中：
 
-| 作者 | 网址                               | 进度       |
-| ---- | ---------------------------------- | ---------- |
+| 作者 | 网址 | 进度 |
+| --- | --- | --- |
+| 这里写作者名称 | 这里写作业网址 | 这里写进度 |
+| yooumuu | https://next-sudoku-game.vercel.app/ | 第一版 |
+| cc   | https://sudoku-puzzle-master-zzia.vercel.app | 第一版 |
 | 小鑫 | https://sudoku-game-xi.vercel.app/ | 完成第一版 |
+
 
 ## 训练营介绍
 
