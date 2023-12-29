@@ -12,9 +12,10 @@
 | 这里写作者名称 | 这里写作业网址 | 这里写进度 |
 | yooumuu | https://next-sudoku-game.vercel.app/ | 第一版 |
 | cc   | https://sudoku-puzzle-master-zzia.vercel.app | 第一版 |
-| 小鑫 | https://sudoku-game-xi.vercel.app/ | 完成第一版 |
+| 小鑫 | https://sudoku-game-xi.vercel.app/ | 第一版 |
 | 击石 | https://soduku-two.vercel.app | 第一版 |
 | kokakola | https://javascript-sudoku.vercel.app/ | 第一版 |
+| Caster | soduku.hello-gpts.day | 第一版 |
 
 
 ## 训练营介绍
