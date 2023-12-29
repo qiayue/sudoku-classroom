@@ -15,7 +15,8 @@
 | 小鑫 | https://sudoku-game-xi.vercel.app/ | 第一版 |
 | 击石 | https://soduku-two.vercel.app | 第一版 |
 | kokakola | https://javascript-sudoku.vercel.app/ | 第一版 |
-| Caster | soduku.hello-gpts.day | 第一版 |
+| Caster | https://soduku.hello-gpts.day | 第一版 |
+| 研硕 | https://sudoku-vkb5.vercel.app/ | 第一版 |
 
 
 ## 训练营介绍
