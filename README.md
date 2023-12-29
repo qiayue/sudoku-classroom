@@ -9,6 +9,8 @@
 | --- | --- | --- |
 | 这里写作者名称 | 这里写作业网址 | 这里写进度 |
 | yooumuu | https://next-sudoku-game.vercel.app/ | 第一版 |
+| cc   | https://sudoku-puzzle-master-zzia.vercel.app | 第一版 |
+
 
 ## 训练营介绍
 
