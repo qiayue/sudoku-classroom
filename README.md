@@ -17,8 +17,8 @@
 | kokakola | https://javascript-sudoku.vercel.app/ | 第一版 |
 | Caster | https://soduku.hello-gpts.day | 第一版 |
 | 研硕 | https://sudoku-vkb5.vercel.app/ | 第一版 |
-| claritas | https://sudoku-test-sable.vercel.app/| 第一版 | 
-
+| claritas | https://sudoku-test-sable.vercel.app/| 第一版 |
+| Fanlu | https://the-next-sudoku.vercel.app/ | 第一版 |
 
 ## 训练营介绍
 
