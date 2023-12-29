@@ -7,20 +7,21 @@
 
 大家交作业可以通过发 PR 的形式提交自己的作业地址在下方表格中：
 
-| 作者 | 网址 | 进度 |
-| --- | --- | --- |
-| 这里写作者名称 | 这里写作业网址 | 这里写进度 |
-| yooumuu | https://next-sudoku-game.vercel.app/ | 第一版 |
-| cc   | https://sudoku-puzzle-master-zzia.vercel.app | 第一版 |
-| 小鑫 | https://sudoku-game-xi.vercel.app/ | 第一版 |
-| 击石 | https://soduku-two.vercel.app | 第一版 |
-| kokakola | https://javascript-sudoku.vercel.app/ | 第一版 |
-| Caster | https://soduku.hello-gpts.day | 第一版 |
-| 研硕 | https://sudoku-vkb5.vercel.app/ | 第一版 |
-| claritas | https://sudoku-test-sable.vercel.app/| 第一版 |
-| Fanlu | https://the-next-sudoku.vercel.app/ | 第一版 |
-| 子煦 | https://sudoku-allen.vercel.app/ | 第一版 |
-| Q_Q | https://sudoku-master.vercel.app/ | 第一版 |
+| 作者           | 网址                                         | 进度       |
+| ---            | ---                                          | ---        |
+| 这里写作者名称 | 这里写作业网址                               | 这里写进度 |
+| yooumuu        | https://next-sudoku-game.vercel.app/         | 第一版     |
+| cc             | https://sudoku-puzzle-master-zzia.vercel.app | 第一版     |
+| 小鑫           | https://sudoku-game-xi.vercel.app/           | 第一版     |
+| 击石           | https://soduku-two.vercel.app                | 第一版     |
+| kokakola       | https://javascript-sudoku.vercel.app/        | 第一版     |
+| Caster         | https://soduku.hello-gpts.day                | 第一版     |
+| 研硕           | https://sudoku-vkb5.vercel.app/              | 第一版     |
+| claritas       | https://sudoku-test-sable.vercel.app/        | 第一版     |
+| Fanlu          | https://the-next-sudoku.vercel.app/          | 第一版     |
+| 子煦           | https://sudoku-allen.vercel.app/             | 第一版     |
+| Q_Q            | https://sudoku-master.vercel.app/            | 第一版     |
+| Diyi           | https://sudoku-p.vercel.app/                 | 第一版     |
 
 ## 训练营介绍
 
