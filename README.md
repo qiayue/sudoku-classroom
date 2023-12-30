@@ -22,6 +22,8 @@
 | 子煦           | https://sudoku-allen.vercel.app/             | 第一版     |
 | Q_Q            | https://sudoku-master.vercel.app/            | 第一版     |
 | Diyi           | https://sudoku-p.vercel.app/                 | 第一版     |
+| 云畔雾隐花 | https://sudoku-pi-eight.vercel.app/ | 第一版 |
+
 
 ## 训练营介绍
 
