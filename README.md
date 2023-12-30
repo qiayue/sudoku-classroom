@@ -40,6 +40,7 @@
 | L | https://shu-du.vercel.app/ | 第一版 |
 |Ethan Pan|https://sudoku-nu-two.vercel.app/|第一版|
 | ling | https://my-sudoku-app.vercel.app/ | 第一版 |
+| ibrothergang | https://shuduku.ibrothergang.com/ | 第一版本 |
 
 
 ## 训练营介绍
