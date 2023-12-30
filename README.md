@@ -21,7 +21,7 @@
 | Fanlu | https://the-next-sudoku.vercel.app/ | 第一版 |
 | 子煦 | https://sudoku-allen.vercel.app/ | 第一版 |
 | Q_Q | https://sudoku-master.vercel.app/ | 第一版 |
-
+| 老虎 | https://suduku-durk.vercel.app/ | 第一版 |
 ## 训练营介绍
 
 之前哥飞在公众号文章《[分享一个月收入 39 万的在线数独游戏网站，每月从搜索引擎获取 1190 万访问量](https://mp.weixin.qq.com/s/yFtnjZpYRQ9bVB6iMZ2UWg)》分享了这个访问量最大的在线数独游戏网站 sudoku.com 。
