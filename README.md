@@ -21,6 +21,8 @@
 | Fanlu | https://the-next-sudoku.vercel.app/ | 第一版 |
 | 子煦 | https://sudoku-allen.vercel.app/ | 第一版 |
 | Q_Q | https://sudoku-master.vercel.app/ | 第一版 |
+| Q_Q | kong1-sudoku-db2rtsc3c-kong-7312s-projects.vercel.app| 第一版 |
+
 
 ## 训练营介绍
 
