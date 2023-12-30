@@ -10,6 +10,7 @@
 | 作者 | 网址 | 进度 |
 | --- | --- | --- |
 | 这里写作者名称 | 这里写作业网址 | 这里写进度 |
+| 激昂澎湃 | https://sdkstudy.vercel.app/ | 第一版 |
 | yooumuu | https://next-sudoku-game.vercel.app/ | 第一版 |
 | cc   | https://sudoku-puzzle-master-zzia.vercel.app | 第一版 |
 | 小鑫 | https://sudoku-game-xi.vercel.app/ | 第一版 |
