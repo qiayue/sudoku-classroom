@@ -29,6 +29,7 @@
 | kxp | https://sudokudemo.vercel.app/ | 第一版 |
 | 随心 | https://sudoku-next-kingluo.vercel.app/ | 第一版 | 
 | wkd | https://sudoku-tau-ruby.vercel.app/ | 第一版 |
+| Mr. Li | https://sudoku.lostphp.com/ | 第一版 |
 
 ## 训练营介绍
 
