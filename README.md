@@ -37,6 +37,7 @@
 |一米水田 | https://sudoku-eta-nine.vercel.app/ | 第一版 |
 | Sam | https://sudoku-pro.com/ | 第一版 |
 | 老虎 | https://suduku-durk.vercel.app/ | 第一版 |
+| L | https://shu-du.vercel.app/ | 第一版 |
 
 ## 训练营介绍
 
