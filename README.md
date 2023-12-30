@@ -52,6 +52,7 @@
 | 糖豆爸 | https://test-sudoku.vercel.app/ | 第一版 |
 | xyz | https://shudu-i4f23j1ts-ftxyz.vercel.app/ | 第一版 |
 | 神经娃 | https://sudoku-game-pi.vercel.app/ | 第一版 |
+| zymonody | https://sudoku-theta-puce.vercel.app/ | 第一版 |
 
 ## 训练营介绍
 
