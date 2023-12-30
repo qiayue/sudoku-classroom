@@ -34,6 +34,7 @@
 | gu-dx | https://sudoku-alpha-three.vercel.app/ | 第一版 |
 | 者年 | https://zhenian-sudoku.vercel.app/ | 第一版 |
 | 许则则 | https://sudoku-nine-sandy.vercel.app/ | 第一版 |
+|一米水田 | https://sudoku-eta-nine.vercel.app/ | 第一版 |
 
 ## 训练营介绍
 
