@@ -45,6 +45,7 @@
 | SevenKites | https://sudokugame-two.vercel.app | 第一版 |
 | wayne | https://sudoku-demo-wayne.vercel.app/ | 第一版 |
 | suifeng| https://sudoku2-tau.vercel.app/ | 第一版 |
+| daniel | https://sudoku-demo-lime.vercel.app/| 第一版 |
 
 ## 训练营介绍
 
