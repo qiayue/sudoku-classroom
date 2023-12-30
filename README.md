@@ -35,6 +35,8 @@
 | 者年 | https://zhenian-sudoku.vercel.app/ | 第一版 |
 | 许则则 | https://sudoku-nine-sandy.vercel.app/ | 第一版 |
 |一米水田 | https://sudoku-eta-nine.vercel.app/ | 第一版 |
+| Sam | https://sudoku-pro.com/ | 第一版 |
+
 
 ## 训练营介绍
 
