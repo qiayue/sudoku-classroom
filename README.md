@@ -47,6 +47,7 @@
 | daniel | https://sudoku-demo-lime.vercel.app/ | 第一版 |
 | suifeng| https://sudoku2-tau.vercel.app/ | 第一版 |
 | Leon Zeng | https://sudoku-ts-orcin.vercel.app/ | 第一版 |
+| xyz | https://shudu-i4f23j1ts-ftxyz.vercel.app/ | 第一版 |
 
 
 ## 训练营介绍
