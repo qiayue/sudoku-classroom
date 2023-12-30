@@ -7,20 +7,48 @@
 
 大家交作业可以通过发 PR 的形式提交自己的作业地址在下方表格中：
 
-| 作者 | 网址 | 进度 |
-| --- | --- | --- |
-| 这里写作者名称 | 这里写作业网址 | 这里写进度 |
-| yooumuu | https://next-sudoku-game.vercel.app/ | 第一版 |
-| cc   | https://sudoku-puzzle-master-zzia.vercel.app | 第一版 |
-| 小鑫 | https://sudoku-game-xi.vercel.app/ | 第一版 |
-| 击石 | https://soduku-two.vercel.app | 第一版 |
-| kokakola | https://javascript-sudoku.vercel.app/ | 第一版 |
-| Caster | https://soduku.hello-gpts.day | 第一版 |
-| 研硕 | https://sudoku-vkb5.vercel.app/ | 第一版 |
-| claritas | https://sudoku-test-sable.vercel.app/| 第一版 |
-| Fanlu | https://the-next-sudoku.vercel.app/ | 第一版 |
-| 子煦 | https://sudoku-allen.vercel.app/ | 第一版 |
-| Q_Q | https://sudoku-master.vercel.app/ | 第一版 |
+| 作者           | 网址                                         | 进度       |
+| ---            | ---                                          | ---        |
+| 这里写作者名称 | 这里写作业网址                               | 这里写进度 |
+| yooumuu        | https://next-sudoku-game.vercel.app/         | 第一版     |
+| cc             | https://sudoku-puzzle-master-zzia.vercel.app | 第一版     |
+| 小鑫           | https://sudoku-game-xi.vercel.app/           | 第一版     |
+| 击石           | https://soduku-two.vercel.app                | 第一版     |
+| kokakola       | https://javascript-sudoku.vercel.app/        | 第一版     |
+| Caster         | https://soduku.hello-gpts.day                | 第一版     |
+| 研硕           | https://sudoku-vkb5.vercel.app/              | 第一版     |
+| claritas       | https://sudoku-test-sable.vercel.app/        | 第一版     |
+| Fanlu          | https://the-next-sudoku.vercel.app/          | 第一版     |
+| 子煦           | https://sudoku-allen.vercel.app/             | 第一版     |
+| Q_Q            | https://sudoku-master.vercel.app/            | 第一版     |
+| Diyi           | https://sudoku-p.vercel.app/                 | 第一版     |
+| 云畔雾隐花 | https://sudoku-pi-eight.vercel.app/ | 第一版 |
+| jal | https://sudogames.vercel.app/ | 第一版 |
+|子夜| https://dz-suduku.vercel.app/ |第一版|
+| kxp | https://sudokudemo.vercel.app/ | 第一版 |
+| 随心 | https://sudoku-next-kingluo.vercel.app/ | 第一版 | 
+| wkd | https://sudoku-tau-ruby.vercel.app/ | 第一版 |
+| Mr. Li | https://sudoku.lostphp.com/ | 第一版 |
+| Chandler | https://sudoku-hazel.vercel.app/ | 第一版 |
+|致中  |https://kong1-sudoku.vercel.app/|第一版|
+| gu-dx | https://sudoku-alpha-three.vercel.app/ | 第一版 |
+| 者年 | https://zhenian-sudoku.vercel.app/ | 第一版 |
+| 许则则 | https://sudoku-nine-sandy.vercel.app/ | 第一版 |
+|一米水田 | https://sudoku-eta-nine.vercel.app/ | 第一版 |
+| Sam | https://sudoku-pro.com/ | 第一版 |
+| 老虎 | https://suduku-durk.vercel.app/ | 第一版 |
+| L | https://shu-du.vercel.app/ | 第一版 |
+|Ethan Pan|https://sudoku-nu-two.vercel.app/|第一版|
+| ling | https://my-sudoku-app.vercel.app/ | 第一版 |
+| ibrothergang | https://shuduku.ibrothergang.com/ | 第一版 |
+| 卡卡龙 | https://sudoku.okpc.cc/su/index | 第一版 |
+| SevenKites | https://sudokugame-two.vercel.app | 第一版 |
+| wayne | https://sudoku-demo-lime.vercel.app | 第一版 |
+| daniel | https://sudoku-demo-lime.vercel.app/ | 第一版 |
+| suifeng| https://sudoku2-tau.vercel.app/ | 第一版 |
+| Leon Zeng | https://sudoku-ts-orcin.vercel.app/ | 第一版 |
+| 晓峰 | https://www.pdfchats.cn/ | 第一版 |
+| 激昂澎湃 | https://sdkstudy.vercel.app/ | 第一版 |
 | 糖豆爸 | https://test-sudoku.vercel.app/ | 第一版 |
 
 ## 训练营介绍
