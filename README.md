@@ -7,7 +7,6 @@
 
 大家交作业可以通过发 PR 的形式提交自己的作业地址在下方表格中：
 
-
 | 作者           | 网址                                         | 进度       |
 | ---            | ---                                          | ---        |
 | 这里写作者名称 | 这里写作业网址                               | 这里写进度 |
@@ -30,6 +29,7 @@
 | 随心 | https://sudoku-next-kingluo.vercel.app/ | 第一版 | 
 | wkd | https://sudoku-tau-ruby.vercel.app/ | 第一版 |
 | Mr. Li | https://sudoku.lostphp.com/ | 第一版 |
+| Chandler | https://sudoku-hazel.vercel.app/ | 第一版 |
 
 ## 训练营介绍
 
