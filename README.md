@@ -51,6 +51,7 @@
 | 激昂澎湃 | https://sdkstudy.vercel.app/ | 第一版 |
 | 糖豆爸 | https://test-sudoku.vercel.app/ | 第一版 |
 | xyz | https://shudu-i4f23j1ts-ftxyz.vercel.app/ | 第一版 |
+| 神经娃 | https://sudoku-game-pi.vercel.app/ | 第一版 |
 
 ## 训练营介绍
 
