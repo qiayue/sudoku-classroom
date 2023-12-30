@@ -7,6 +7,7 @@
 
 大家交作业可以通过发 PR 的形式提交自己的作业地址在下方表格中：
 
+
 | 作者           | 网址                                         | 进度       |
 | ---            | ---                                          | ---        |
 | 这里写作者名称 | 这里写作业网址                               | 这里写进度 |
@@ -26,7 +27,7 @@
 | jal | https://sudogames.vercel.app/ | 第一版 |
 |子夜| https://dz-suduku.vercel.app/ |第一版|
 | kxp | https://sudokudemo.vercel.app/ | 第一版 |
-
+| 随心 | https://sudoku-next-kingluo.vercel.app/ | 第一版 | 
 
 ## 训练营介绍
 
