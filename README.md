@@ -24,6 +24,7 @@
 | Diyi           | https://sudoku-p.vercel.app/                 | 第一版     |
 | 云畔雾隐花 | https://sudoku-pi-eight.vercel.app/ | 第一版 |
 | jal | https://sudogames.vercel.app/ | 第一版 |
+|子夜| https://dz-suduku.vercel.app/ |第一版|
 
 
 ## 训练营介绍
