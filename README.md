@@ -48,6 +48,8 @@
 | suifeng| https://sudoku2-tau.vercel.app/ | 第一版 |
 | Leon Zeng | https://sudoku-ts-orcin.vercel.app/ | 第一版 |
 | 晓峰 | https://www.pdfchats.cn/ | 第一版 |
+| 激昂澎湃 | https://sdkstudy.vercel.app/ | 第一版 |
+
 
 ## 训练营介绍
 
