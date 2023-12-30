@@ -47,8 +47,10 @@
 | daniel | https://sudoku-demo-lime.vercel.app/ | 第一版 |
 | suifeng| https://sudoku2-tau.vercel.app/ | 第一版 |
 | Leon Zeng | https://sudoku-ts-orcin.vercel.app/ | 第一版 |
+| 晓峰 | https://www.pdfchats.cn/ | 第一版 |
+| 激昂澎湃 | https://sdkstudy.vercel.app/ | 第一版 |
+| 糖豆爸 | https://test-sudoku.vercel.app/ | 第一版 |
 | xyz | https://shudu-i4f23j1ts-ftxyz.vercel.app/ | 第一版 |
-
 
 ## 训练营介绍
 
