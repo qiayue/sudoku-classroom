@@ -55,7 +55,7 @@
 | 神经娃 | https://sudoku-game-pi.vercel.app/ | 第一版 |
 | Index、、、| https://sudoku.feiyu.site | 第一版 |
 | foolgry | https://sudoku-game-eosin.vercel.app/ | 第一版 |
-
+| SkyzcYou | https://sudoku-jonyou.vercel.app/ | 第一版 |
 
 ## 训练营介绍
 
