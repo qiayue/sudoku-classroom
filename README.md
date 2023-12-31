@@ -63,6 +63,8 @@
 | 粥粥 | https://sudoku-game-847q.vercel.app/ | 第一版 |
 | xinc | https://sudo-demo1.vercel.app/ | 第一版 |
 | guuzaa | https://sudoku-jonyou.vercel.app/  | 第一版 |
+| Yibie | https://sudoku-garden1.vercel.app/ | 第一版 |
+
 
 ## 训练营介绍
 
