@@ -57,6 +57,7 @@
 | foolgry | https://sudoku-game-eosin.vercel.app/ | 第一版 |
 | SkyzcYou | https://sudoku-jonyou.vercel.app/ | 第一版 |
 | 阿健 | https://sudoku-ajanx.vercel.app// | 第一版 |
+| Qi | https://sudoku-gaming.vercel.app/ | 第一版 |
 
 ## 训练营介绍
 
