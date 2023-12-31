@@ -60,6 +60,7 @@
 | 柚子 | https://nextjs-sudoku-first.vercel.app/sudoku | 第一版 |
 | zymonody | https://sudoku-theta-puce.vercel.app/ | 第一版 |
 | 友码学长James    | https://sudo-ku.fun                         | 第一版     |
+| 粥粥 | https://sudoku-game-847q.vercel.app/ | 第一版 |
 
 ## 训练营介绍
 
