@@ -9,7 +9,6 @@
 
 | 作者           | 网址                                         | 进度       |
 | ---            | ---                                          | ---        |
-| 这里写作者名称 | 这里写作业网址                               | 这里写进度 |
 | seed        | https://sudoku-six-gamma.vercel.app/         | 第一版     |
 | yooumuu        | https://next-sudoku-game.vercel.app/         | 第一版     |
 | cc             | https://sudoku-puzzle-master-zzia.vercel.app | 第一版     |
@@ -51,8 +50,16 @@
 | 晓峰 | https://www.pdfchats.cn/ | 第一版 |
 | 激昂澎湃 | https://sdkstudy.vercel.app/ | 第一版 |
 | 糖豆爸 | https://test-sudoku.vercel.app/ | 第一版 |
-| xyz | https://shudu-i4f23j1ts-ftxyz.vercel.app/ | 第一版 |
+| xyz | https://shudu.vercel.app/ | 第一版 |
 | 神经娃 | https://sudoku-game-pi.vercel.app/ | 第一版 |
+| Index、、、| https://sudoku.feiyu.site | 第一版 |
+| foolgry | https://sudoku-game-eosin.vercel.app/ | 第一版 |
+| SkyzcYou | https://sudoku-jonyou.vercel.app/ | 第一版 |
+| 阿健 | https://sudoku-ajanx.vercel.app// | 第一版 |
+| Qi | https://sudoku-gaming.vercel.app/ | 第一版 |
+| 柚子 | https://nextjs-sudoku-first.vercel.app/sudoku | 第一版 |
+| zymonody | https://sudoku-theta-puce.vercel.app/ | 第一版 |
+| 友码学长James    | https://sudo-ku.fun                         | 第一版     |
 
 ## 训练营介绍
 
