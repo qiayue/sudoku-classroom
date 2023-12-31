@@ -62,6 +62,7 @@
 | 友码学长James    | https://sudo-ku.fun                         | 第一版     |
 | 粥粥 | https://sudoku-game-847q.vercel.app/ | 第一版 |
 | xinc | https://sudo-demo1.vercel.app/ | 第一版 |
+| guuzaa | https://sudoku-jonyou.vercel.app/  | 第一版 |
 
 ## 训练营介绍
 
