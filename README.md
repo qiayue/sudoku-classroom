@@ -58,6 +58,7 @@
 | SkyzcYou | https://sudoku-jonyou.vercel.app/ | 第一版 |
 | 阿健 | https://sudoku-ajanx.vercel.app// | 第一版 |
 | Qi | https://sudoku-gaming.vercel.app/ | 第一版 |
+| 柚子 | https://nextjs-sudoku-first.vercel.app/sudoku | 第一版 |
 
 ## 训练营介绍
 
