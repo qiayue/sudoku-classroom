@@ -64,6 +64,7 @@
 | xinc | https://sudo-demo1.vercel.app/ | 第一版 |
 | guuzaa | https://sudoku-jonyou.vercel.app/  | 第一版 |
 | Yibie | https://sudoku-garden1.vercel.app/ | 第一版 |
+| Catxx | https://sudoku-js-omega.vercel.app/ | 第一版 |
 
 
 ## 训练营介绍
