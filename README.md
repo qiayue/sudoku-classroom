@@ -56,6 +56,7 @@
 | Index、、、| https://sudoku.feiyu.site | 第一版 |
 | foolgry | https://sudoku-game-eosin.vercel.app/ | 第一版 |
 | SkyzcYou | https://sudoku-jonyou.vercel.app/ | 第一版 |
+| Yibie | https://sudoku-garden1-pmtfeac6i-yibies-projects.vercel.app/ | 第一版 |
 
 ## 训练营介绍
 
