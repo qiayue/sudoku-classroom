@@ -59,6 +59,7 @@
 | 阿健 | https://sudoku-ajanx.vercel.app// | 第一版 |
 | Qi | https://sudoku-gaming.vercel.app/ | 第一版 |
 | 柚子 | https://nextjs-sudoku-first.vercel.app/sudoku | 第一版 |
+| zymonody | https://sudoku-theta-puce.vercel.app/ | 第一版 |
 
 ## 训练营介绍
 
