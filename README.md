@@ -9,8 +9,7 @@
 
 | 作者           | 网址                                         | 进度       |
 | ---            | ---                                          | ---        |
-| 这里写作者名称 | 这里写作业网址                               | 这里写进度 |
-| 友码学长James    | https://sudo-ku.fun                         | 第一版     |
+| seed        | https://sudoku-six-gamma.vercel.app/         | 第一版     |
 | yooumuu        | https://next-sudoku-game.vercel.app/         | 第一版     |
 | cc             | https://sudoku-puzzle-master-zzia.vercel.app | 第一版     |
 | 小鑫           | https://sudoku-game-xi.vercel.app/           | 第一版     |
@@ -60,6 +59,7 @@
 | Qi | https://sudoku-gaming.vercel.app/ | 第一版 |
 | 柚子 | https://nextjs-sudoku-first.vercel.app/sudoku | 第一版 |
 | zymonody | https://sudoku-theta-puce.vercel.app/ | 第一版 |
+| 友码学长James    | https://sudo-ku.fun                         | 第一版     |
 
 ## 训练营介绍
 
