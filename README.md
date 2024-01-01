@@ -70,7 +70,7 @@
 | 老林 | https://sudoku-demo-nextjs.vercel.app | 第一版 |
 | python大大 | https://sudoku-jet.vercel.app/ | 第一版 |
 | 6 | https://sudoku-psi-five.vercel.app/ |  第一版 |
-
+| swagger | https://vue-sudoku2.vercel.app/ |  第一版 |
 
 ## 训练营介绍
 
