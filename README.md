@@ -69,6 +69,7 @@
 | 好先生 | https://sudoku-flask-demo.vercel.app | 第一版 |
 | 老林 | https://sudoku-demo-nextjs.vercel.app | 第一版 |
 | python大大 | [https://sudoku-demo-nextjs.vercel.app ](https://sudoku-jet.vercel.app/)| 第一版 |
+| 6 | https://sudoku-psi-five.vercel.app/ |  第一版 |
 
 
 ## 训练营介绍
