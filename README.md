@@ -49,7 +49,7 @@
 | Leon Zeng | https://sudoku-ts-orcin.vercel.app/ | 第一版 |
 | 晓峰 | https://www.pdfchats.cn/ | 第一版 |
 | 激昂澎湃 | https://sdkstudy.vercel.app/ | 第一版 |
-| 糖豆爸 | https://test-sudoku.vercel.app/ | 第一版 |
+| 糖豆爸 | https://sudoku20240104.vercel.app/ | 第1.5版 |
 
 ## 训练营介绍
 
