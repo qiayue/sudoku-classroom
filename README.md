@@ -39,7 +39,7 @@
 | 老虎 | https://suduku-durk.vercel.app/ | 第一版 |
 | L | https://shu-du.vercel.app/ | 第一版 |
 |Ethan Pan|https://sudoku-nu-two.vercel.app/|第一版|
-| ling | https://my-sudoku-app.vercel.app/ | 第一版 |
+| ling | https://my-sudoku-app.vercel.app/ | 第三版 |
 | ibrothergang | https://shuduku.ibrothergang.com/ | 第一版 |
 | 卡卡龙 | https://sudoku.okpc.cc/su/index | 第一版 |
 | SevenKites | https://sudokugame-two.vercel.app | 第一版 |
