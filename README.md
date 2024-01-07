@@ -19,7 +19,7 @@
 | 研硕           | https://sudoku-vkb5.vercel.app/              | 第一版     |
 | claritas       | https://sudoku-test-sable.vercel.app/        | 第一版     |
 | Fanlu          | https://the-next-sudoku.vercel.app/          | 第一版     |
-| 子煦           | https://sudoku-allen.vercel.app/             | 第一版     |
+| 子煦           | https://another-sudoku.vercel.app/             | 第二版     |
 | Q_Q            | https://sudoku-master.vercel.app/            | 第一版     |
 | Diyi           | https://sudoku-p.vercel.app/                 | 第二版     |
 | 云畔雾隐花 | https://sudoku-pi-eight.vercel.app/ | 第一版 |
