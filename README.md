@@ -27,7 +27,7 @@
 |子夜| https://dz-suduku.vercel.app/ |第一版|
 | kxp | https://sudokudemo.vercel.app/ | 第一版 |
 | 随心 | https://sudoku-next-kingluo.vercel.app/ | 第一版 | 
-| wkd | https://sudoku-tau-ruby.vercel.app/ | 第一版 |
+| wkd | https://sudoku-tau-ruby.vercel.app/ | 第二版 |
 | Mr. Li | https://sudoku.lostphp.com/ | 第一版 |
 | Chandler | https://sudoku-hazel.vercel.app/ | 第一版 |
 |致中  |https://kong1-sudoku.vercel.app/|第一版|
