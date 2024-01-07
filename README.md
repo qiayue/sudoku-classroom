@@ -17,7 +17,7 @@
 | kokakola       | https://javascript-sudoku.vercel.app/        | 第一版     |
 | Caster         | https://soduku.hello-gpts.day                | 第一版     |
 | 研硕           | https://sudoku-vkb5.vercel.app/              | 第一版     |
-| claritas       | https://sudoku-test-sable.vercel.app/        | 第一版     |
+| claritas       | https://zhusudoku.vercel.app/sudoku       | 第二版     |
 | Fanlu          | https://the-next-sudoku.vercel.app/          | 第一版     |
 | 子煦           | https://sudoku-allen.vercel.app/             | 第一版     |
 | Q_Q            | https://sudoku-master.vercel.app/            | 第一版     |
