@@ -11,7 +11,7 @@
 | ---            | ---                                          | ---        |
 | seed        | https://sudoku-six-gamma.vercel.app/         | 第一版     |
 | yooumuu        | https://next-sudoku-game.vercel.app/         | 第四版     |
-| cc             | https://sudoku-puzzle-master-zzia.vercel.app | 第一版     |
+| cc             | https://sudoku-puzzle-master-zzia.vercel.app | 第二版     |
 | 小鑫           | https://sudoku-game-xi.vercel.app/           | 第一版     |
 | 击石           | https://soduku-two.vercel.app                | 第一版     |
 | kokakola       | https://javascript-sudoku.vercel.app/        | 第一版     |
@@ -31,7 +31,7 @@
 | Mr. Li | https://sudoku.lostphp.com/ | 第一版 |
 | Chandler | https://sudoku-hazel.vercel.app/ | 第一版 |
 |致中  |https://kong1-sudoku.vercel.app/|第一版|
-| gu-dx | https://sudoku-alpha-three.vercel.app/ | 第一版 |
+| gu-dx | https://sudoku-alpha-three.vercel.app/ | 第2版 |
 | 者年 | https://zhenian-sudoku.vercel.app/ | 第一版 |
 | 许则则 | https://sudoku-nine-sandy.vercel.app/ | 第一版 |
 |一米水田 | https://sudoku-eta-nine.vercel.app/ | 第一版 |
@@ -49,6 +49,7 @@
 | Leon Zeng | https://sudoku-ts-orcin.vercel.app/ | 第一版 |
 | 晓峰 | https://www.pdfchats.cn/ | 第一版 |
 | 激昂澎湃 | https://sdkstudy.vercel.app/ | 第一版 |
+| 糖豆爸 | https://sudoku20240104.vercel.app/ | 第二版 |
 | 糖豆爸 | https://test-sudoku.vercel.app/ | 第一版 |
 | xyz | https://shudu.vercel.app/ | 第一版 |
 | 神经娃 | https://sudoku-game-pi.vercel.app/ | 第一版 |
@@ -71,6 +72,8 @@
 | python大大 | https://sudoku-jet.vercel.app/ | 第一版 |
 | 6 | https://sudoku-psi-five.vercel.app/ |  第一版 |
 | swagger | https://vue-sudoku2.vercel.app/ |  第一版 |
+| hahaee | https://www.ai-sudoku.top/ |  第二版 |
+
 
 ## 训练营介绍
 
