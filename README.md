@@ -31,7 +31,7 @@
 | Mr. Li | https://sudoku.lostphp.com/ | 第一版 |
 | Chandler | https://sudoku-hazel.vercel.app/ | 第一版 |
 |致中  |https://kong1-sudoku.vercel.app/|第一版|
-| gu-dx | https://sudoku-alpha-three.vercel.app/ | 第一版 |
+| gu-dx | https://sudoku-alpha-three.vercel.app/ | 第2版 |
 | 者年 | https://zhenian-sudoku.vercel.app/ | 第一版 |
 | 许则则 | https://sudoku-nine-sandy.vercel.app/ | 第一版 |
 |一米水田 | https://sudoku-eta-nine.vercel.app/ | 第一版 |
