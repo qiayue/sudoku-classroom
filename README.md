@@ -49,6 +49,7 @@
 | Leon Zeng | https://sudoku-ts-orcin.vercel.app/ | 第一版 |
 | 晓峰 | https://www.pdfchats.cn/ | 第一版 |
 | 激昂澎湃 | https://sdkstudy.vercel.app/ | 第一版 |
+| 糖豆爸 | https://sudoku20240104.vercel.app/ | 第二版 |
 | 糖豆爸 | https://test-sudoku.vercel.app/ | 第一版 |
 | xyz | https://shudu.vercel.app/ | 第一版 |
 | 神经娃 | https://sudoku-game-pi.vercel.app/ | 第一版 |
@@ -72,6 +73,7 @@
 | 6 | https://sudoku-psi-five.vercel.app/ |  第一版 |
 | swagger | https://vue-sudoku2.vercel.app/ |  第一版 |
 | hahaee | https://www.ai-sudoku.top/ |  第二版 |
+
 
 ## 训练营介绍
 
