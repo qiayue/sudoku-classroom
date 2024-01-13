@@ -70,7 +70,7 @@
 | 好先生 | https://sudoku-flask-demo.vercel.app | 第一版 |
 | 老林 | https://sudoku-demo-nextjs.vercel.app | 第一版 |
 | python大大 | https://sudoku-jet.vercel.app/ | 第一版 |
-| 6 | https://sudoku-psi-five.vercel.app/ |  第一版 |
+| 6 | https://sudoku-psi-five.vercel.app/ |  第三版 |
 | swagger | https://vue-sudoku2.vercel.app/ |  第一版 |
 | hahaee | https://www.ai-sudoku.top/ |  第二版 |
 
