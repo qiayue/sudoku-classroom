@@ -62,7 +62,7 @@
 | 友码学长James    | https://sudo-ku.fun                         | 第一版     |
 | 粥粥 | https://sudoku-game-847q.vercel.app/ | 第一版 |
 | xinc | https://sudo-demo1.vercel.app/ | 第一版 |
-| guuzaa | https://sudokupuzzle.vercel.app/  | 第二版 |
+| guuzaa | https://sudokupuzzle.vercel.app/  | 第四版 |
 | Yibie | https://sudoku-garden1.vercel.app/ | 第一版 |
 | Catxx | https://sudoku-js-omega.vercel.app/ | 第一版 |
 | 龙飞 | https://sudoku-garden1.vercel.app/| 第一版 |
